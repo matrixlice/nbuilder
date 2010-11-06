@@ -1,10 +1,7 @@
 #labels Featured
   # The project has two outputs - a CLR version and a Silverlight version. All code must compile for both.
-
   # Every patch must have unit tests and those tests must provide 100% coverage.
-
   # Tests are divided into three categories:
-
   a) Unit - the class under test is completely isolated by use of stubs or mocks.
   b) Integration - classes tested together.
   c) Functional - 'real life' tests and documentation.
