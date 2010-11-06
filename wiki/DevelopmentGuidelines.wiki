@@ -1,3 +1,4 @@
+#labels Featured
 1) Every patch must have unit tests and those tests must provide 100% coverage.
 
 2) Tests are divided into three categories:
