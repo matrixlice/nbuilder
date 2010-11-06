@@ -5,19 +5,11 @@
   a) Unit - the class under test is completely isolated by use of stubs or mocks.
   b) Integration - classes tested together.
   c) Functional - 'real life' tests and documentation.
-
   # Every new class must have a 'unit' test fixture at least.
-
   # Add integration tests when necessary to do so.
-
   # For new features or changes to existing features use the functional tests project for high level real world tests and to serve as simple documentation for users.
-
   # Any new tests must follow this naming convention:
-
        MethodName_Scenario_Expectation()
-
   # Every class must have an interface and must be injected through constructor arguments.
-
   # Every class must have a single responsibility.
-
   # Every new test must be in Arrange Act Assert form. If touching an existing test in record/replay, convert it to AAA syntax unless it is too time consuming.
