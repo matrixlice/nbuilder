@@ -13,3 +13,4 @@
   # Every class must have an interface and must be injected through constructor arguments.
   # Every class must have a single responsibility.
   # Every new test must be in Arrange Act Assert form. If touching an existing test in record/replay, convert it to AAA syntax unless it is too time consuming.
+  # The "Foo Bar" convention is not permitted anywhere
