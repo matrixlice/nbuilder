@@ -1,3 +1,4 @@
+#labels Featured
 == Overview of NBuilder ==
 
 Through a fluent, extensible interface, NBuilder allows you to rapidly create test data, automatically assigning values to properties and public fields that are of type of the built in .NET data types (int, string etc). NBuilder allows you to override for properties you are interested in using lambda expressions.
@@ -425,8 +426,6 @@ Builder<Product>.CreateListOfSize(10).WhereAllHaveLongTitles();
 == For more examples, please check the functional tests ==
 
 Until the full documentation is available please have a look at the functional tests in the source code. These explain how to do everything that's currently possible in NBuilder.
-
-
 
 
 
