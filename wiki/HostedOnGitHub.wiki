@@ -1,0 +1,5 @@
+#The source has been moved to github
+
+= Moved to GitHub =
+
+The source has been moved to GitHub - https://github.com/garethdown44/nbuilder/
